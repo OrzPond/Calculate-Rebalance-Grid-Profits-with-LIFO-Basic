@@ -1,0 +1,4 @@
+ccxt==1.33.23
+pandas==1.1.0
+datetime==4.3
+pytz==2020.1
